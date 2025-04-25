@@ -9,7 +9,6 @@
 
 # 💫 About Me:
 
-- 👨‍💻 Visit My <a href="https://udeshika123-cyber/">PORTFOLIO</a><br><br>-
 - 💬 Ask me about **JAVA,JAVAFX,MYSQL,Hibernate,Javascript,HTML,CSS**<br><br>-
 - 📫 How to reach me **udeshikaprabhashini21@gmail.com**<br>-
 
@@ -34,9 +33,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=udeshika123-cyber&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=udeshika123-cyber&icon=8&color=3)](https://visitcount.itsvg.in)
